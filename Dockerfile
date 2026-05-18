@@ -1,3 +1,3 @@
 FROM ubuntu
 
-RUN echo "hi" >> hi.txt
+RN echo "hi" >> hi.txt
